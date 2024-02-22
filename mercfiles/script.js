@@ -1,9 +1,9 @@
 const typedOut = document.getElementById("typed-out-text"); // Get the element where you want to display the typed text
 
 const TEXT = [
+    "the world is yours",
     "never owns u",
-    "wrd 2 my muddda",
-    "you built like a discombobulated wet tonail",
+    "its never my fault",
     "smd lil nigga"
 ];
 
